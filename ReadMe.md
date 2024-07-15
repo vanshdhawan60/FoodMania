@@ -1,7 +1,7 @@
 <div align="center">
     <h1 style="color: tomato;">FoodMania</h1>
 
-This application is deployed on Render. Please check it out [here](https://merneats-0xob.onrender.com).
+This application is deployed on Vercel. Please check it out [here](https://food-mania-phi.vercel.app/).
 
 ![MernEats](frontend/src/assets/merneats-thumbnail.png)
 
@@ -9,7 +9,7 @@ This application is deployed on Render. Please check it out [here](https://merne
 
 ## Introduction
 
-FoodMania.com is a full-stack web application that enables users to browse through a variety of dishes, place orders, track their order in real time and get food delivered to their doorstep efficiently. The application leverages the power of the MERN stack (MongoDB, Express.js, React.js, Node.js) to ensure a seamless user experience and robust performance.
+FoodMania is a full-stack web application that enables users to browse through a variety of dishes, place orders, track their order in real time and get food delivered to their doorstep efficiently. The application leverages the power of the MERN stack (MongoDB, Express.js, React.js, Node.js) to ensure a seamless user experience and robust performance.
 
 ## 🖥️ Tech Stack
 
@@ -46,8 +46,8 @@ FoodMania.com is a full-stack web application that enables users to browse throu
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/rajeevkrS/Food-Delivery-App
-   cd food-delivery-app
+   git clone https://github.com/vanshdhawan60/FoodMania
+   cd FoodMania
    ```
 
 2. **Install dependencies in admin, backend and frontend**:
@@ -117,15 +117,15 @@ Here are listed all available API endpoints along with a brief description of ea
 
 ## 👤 Developer
 
-[RAJEEV KUMAR SUDHANSU](https://github.com/rajeevkrS)
+[Vansh Dhawan](https://github.com/vanshdhawan60)
 
 ## 📬 Contact
 
 If you want to contact me, you can reach me through below handles.
 
-<a href="https://www.linkedin.com/in/rajeev-kumar-sudhansu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/vanshdhawan60/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<a href="mailto:rajeevkumarr1221@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:vanshdhawan20@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Contribution:
 
