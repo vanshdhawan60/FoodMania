@@ -16,5 +16,4 @@ export const assets = {
   all_order_items,
 };
 
-// export const url = "http://localhost:8000";
-export const url = import.meta.env.VITE_APP_BACKEND_URL;
+export const url = "https://foodmania-1gtj.onrender.com";
