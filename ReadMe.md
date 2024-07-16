@@ -2,6 +2,7 @@
     <h1 style="color: tomato;">FoodMania</h1>
 
 This application is deployed on Vercel. Please check it out [here](https://food-mania-phi.vercel.app/).
+To access the admin dashboard, click [here] (https://food-mania-admin.vercel.app/)
 
 ![MernEats](frontend/src/assets/merneats-thumbnail.png)
 
